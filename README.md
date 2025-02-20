@@ -1,2 +1,2 @@
-# website
-My website and its devlopment journey
+# Website
+My website and its development journey
