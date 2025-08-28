@@ -77,27 +77,24 @@
             {"name": "🤖 Jenkins", "level": "Advanced"},
             {"name": "🦊 GitLab CI/CD", "level": "Advanced"},
             {"name": "⛵ Helm", "level": "Intermediate"},
-            {"name": "⛵ Helm", "level": "Intermediate"},
             {"name": "📜 Ansible", "level": "Intermediate"},
-            {"name": "🍃 MongoDB", "level": "Intermediate"},
-            {"name": "🐬 MySQL", "level": "Intermediate"},
             {"name": "🕵🏼‍♂️ Prometheus", "level": "Intermediate"},
             {"name": "📊 Grafana", "level": "Intermediate"},
             {"name": "🪵 ELK Stack", "level": "Intermediate"},
             {"name": "💻 Bash Scripting", "level": "Advanced"},
-            {"name": "🚀 ArgoCD", "level": "Intermediate"},     
+            {"name": "🚀 ArgoCD & CRD's", "level": "Intermediate"},     
             {"name": "🌉 Istio", "level": "Intermediate"},      
             {"name": "☁️ AWS", "level": "Advanced"},           
             {"name": "🔷 Azure", "level": "Intermediate"},     
             {"name": "🐳 Podman", "level": "Intermediate"},   
             {"name": "📦 Nginx", "level": "Advanced"},         
             {"name": "🛰️ OpenShift", "level": "Intermediate"}, 
-            {"name": "🔐 Vault", "level": "Intermediate"},     
-            {"name": "📡 Istio Gateway", "level": "Intermediate"}, 
             {"name": "⚙️ CircleCI", "level": "Intermediate"},
             {"name": "🔵 Go (Golang)", "level": "Intermediate"},
             {"name": "🛡️ DevSecOps", "level": "Intermediate"},
-            {"name": "⚡ GitHub Actions", "level": "Intermediate"}
+            {"name": "⚡ GitHub Actions", "level": "Intermediate"},
+            {"name": "♾️ n8n", "level": "Intermediate"}
+
         ]
     };
 
